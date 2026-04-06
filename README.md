@@ -28,7 +28,7 @@ My goal is simple: useful Oracle + AI content for practitioners, architects, and
   <tr>
     <td width="140">
       <a href="https://a.co/d/08r0YDjq">
-        <img src="https://github.com/assoudi-typica-ai/71Pw70ZxSGL._UF1000,1000_QL80_.jpg" alt="Book Cover for Data Engineer's Guide to Oracle Machine Learning and GenAI Services" width="120">
+        <img src="https://github.com/assoudi-typica-ai/assoudi-typica-ai/blob/main/71Pw70ZxSGL._UF1000%2C1000_QL80_.jpg" alt="Book Cover for Data Engineer's Guide to Oracle Machine Learning and GenAI Services" width="120">
       </a>
     </td>
     <td>
