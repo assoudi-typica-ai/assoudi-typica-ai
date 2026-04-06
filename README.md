@@ -7,7 +7,7 @@
 
 ---
 
-### Active work
+### Ongoing work
 My goal is simple: useful Oracle + AI content for practitioners, architects, and technical leaders.
 
 ---
@@ -40,10 +40,10 @@ My goal is simple: useful Oracle + AI content for practitioners, architects, and
 
 ---
 
-### Areas of Collaboration
+### Let’s Collaborate
 I am open to select, high-impact Oracle AI engagements where I can contribute through technical advisory, applied research, and strategic guidance.
 
-### Connect with Me
+### Contact Me
 - 🔗 **LinkedIn**: [Hicham Assoudi](https://linkedin.com/in/assoudi)
 - 🤗 **Hugging Face**: [hassoudi](https://huggingface.co/hassoudi)
 - ✍️ **Blog**: [assoudi.blog](https://assoudi.blog)
