@@ -1,6 +1,5 @@
-# Hicham Assoudi | Oracle & AI Expert (Consultant · Researcher · Author)
-*Natural Language Processing on Oracle Cloud Infrastructure
-Building Transformer-Based NLP Solutions Using Oracle AI and Hugging Face*
+# Hicham Assoudi | Oracle & AI Expert
+*Consultant · Researcher · Author*
 
 [![Contact for Collaboration](https://img.shields.io/badge/Contact%20for-Collaboration-brightgreen)](mailto:assoudi@typica.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hicham%20Assoudi-blue)](https://linkedin.com/in/assoudi)
